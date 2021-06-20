@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="45124" it="0" lt="1992" ct="329" ts="1624176147802" s="false" lb="HTTPR_enter_random_link" rc="200" rm="Embedded resource download error:https://lh4.googleusercontent.com/proxy/paYnwezw3tRb3bgIZQPIDinFUR1Zbws0ezTdMDkXxhe6kJIdVFdzk2sLMNPXmcFVXgUHOmrDER5ZZG51XkCI6-1MzW8=w72-h72-n-k-no-nu code:404 message:Not Found, https://lh3.googleusercontent.com/proxy/Cem5NkI4Hmx6r6iKUjXFjMNRz4NrK4Le1EJ6nS4-S7T-vrv3aTWQ6Vz1hq5YonHyQAnvQqTp7BaSFtkfRahrTRIRnfE=w72-h72-n-k-no-nu code:404 message:Not Found, " tn="UTG_Тестирование 1-8" dt="text" by="354485" sby="11823" ng="7" na="7">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1992" it="0" lt="1992" ct="329" ts="1624176147802" s="true" lb="HTTPR_enter_random_link-0" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="147546" sby="406" ng="7" na="7">
+    <java.net.URL>http://krivoyrog-history.blogspot.com/2014/10/Anekdot-YA-kival.html</java.net.URL>
+  </httpSample>
+  <httpSample t="1753" it="0" lt="1740" ct="1258" ts="1624176149796" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="8604" sby="408" ng="7" na="7">
+    <java.net.URL>https://www.blogger.com/static/v1/widgets/3822632116-css_bundle_v2.css</java.net.URL>
+  </httpSample>
+  <httpSample t="620" it="0" lt="620" ct="0" ts="1624176151580" s="true" lb="HTTPR_enter_random_link-2" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="4081" sby="388" ng="7" na="7">
+    <java.net.URL>http://krivoyrog-history.blogspot.com/favicon.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="1095" it="0" lt="1095" ct="0" ts="1624176152200" s="true" lb="HTTPR_enter_random_link-3" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="1416" sby="460" ng="7" na="7">
+    <java.net.URL>https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8801347559688891051&amp;zx=a2681ebe-c565-42b0-a8bf-c926f509e8ca</java.net.URL>
+  </httpSample>
+  <httpSample t="2038" it="0" lt="894" ct="728" ts="1624176153296" s="true" lb="HTTPR_enter_random_link-4" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="22791" sby="375" ng="7" na="7">
+    <java.net.URL>https://apis.google.com/js/plusone.js</java.net.URL>
+  </httpSample>
+  <httpSample t="1486" it="0" lt="625" ct="425" ts="1624176155335" s="true" lb="HTTPR_enter_random_link-5" rc="200" rm="" tn="UTG_Тестирование 1-8" dt="text" by="1443" sby="851" ng="7" na="7">
+    <httpSample t="625" it="0" lt="625" ct="425" ts="1624176155335" s="true" lb="HTTPR_enter_random_link-0" rc="302" rm="Found" tn="" dt="text" by="313" sby="394" ng="0" na="0">
+      <java.net.URL>http://pagead2.googlesyndication.com/pagead/show_ads.js</java.net.URL>
+    </httpSample>
+    <httpSample t="861" it="0" lt="861" ct="334" ts="1624176155960" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="" tn="UTG_Тестирование 1-8" dt="text" by="1130" sby="457" ng="0" na="0">
+      <java.net.URL>http://195.34.49.19/?u=pagead2.googlesyndication.com%2Fpagead%2Fshow_ads.js&amp;r=&amp;h=f0a459953c13fd7efd9e5b1722fa6d58&amp;mr=4</java.net.URL>
+    </httpSample>
+    <java.net.URL>http://195.34.49.19/?u=pagead2.googlesyndication.com%2Fpagead%2Fshow_ads.js&amp;r=&amp;h=f0a459953c13fd7efd9e5b1722fa6d58&amp;mr=4</java.net.URL>
+  </httpSample>
+  <httpSample t="1571" it="0" lt="1571" ct="1086" ts="1624176156822" s="true" lb="HTTPR_enter_random_link-6" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="1048" sby="397" ng="7" na="7">
+    <java.net.URL>https://resources.blogblog.com/img/icon18_wrench_allbkg.png</java.net.URL>
+  </httpSample>
+  <httpSample t="1855" it="0" lt="507" ct="375" ts="1624176158394" s="true" lb="HTTPR_enter_random_link-7" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="738" sby="834" ng="7" na="7">
+    <httpSample t="507" it="0" lt="507" ct="375" ts="1624176158394" s="true" lb="HTTPR_enter_random_link-0" rc="301" rm="Moved Permanently" tn="" dt="text" by="443" sby="417" ng="0" na="0">
+      <java.net.URL>http://world-weather.ru/wwinformer.php?userid=bf785a61ce41d9dc2bde6c5ec08a7ab8</java.net.URL>
+    </httpSample>
+    <httpSample t="1347" it="0" lt="1347" ct="726" ts="1624176158902" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="295" sby="417" ng="0" na="0">
+      <java.net.URL>https://world-weather.ru/wwinformer.php?userid=bf785a61ce41d9dc2bde6c5ec08a7ab8</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://world-weather.ru/wwinformer.php?userid=bf785a61ce41d9dc2bde6c5ec08a7ab8</java.net.URL>
+  </httpSample>
+  <httpSample t="319" it="0" lt="319" ct="0" ts="1624176160250" s="true" lb="HTTPR_enter_random_link-8" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="737" sby="389" ng="7" na="7">
+    <java.net.URL>https://resources.blogblog.com/img/icon18_email.gif</java.net.URL>
+  </httpSample>
+  <httpSample t="418" it="0" lt="418" ct="0" ts="1624176160570" s="true" lb="HTTPR_enter_random_link-9" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="735" sby="395" ng="7" na="7">
+    <java.net.URL>https://resources.blogblog.com/img/icon18_edit_allbkg.gif</java.net.URL>
+  </httpSample>
+  <httpSample t="632" it="0" lt="347" ct="0" ts="1624176160988" s="true" lb="HTTPR_enter_random_link-10" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="7213" sby="416" ng="7" na="7">
+    <java.net.URL>https://www.blogger.com/static/v1/jsbin/1639926472-comment_from_post_iframe.js</java.net.URL>
+  </httpSample>
+  <httpSample t="2267" it="0" lt="2267" ct="1827" ts="1624176161622" s="true" lb="HTTPR_enter_random_link-11" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="16210" sby="485" ng="7" na="7">
+    <java.net.URL>http://4.bp.blogspot.com/_FnH9Jx4x5ZM/TQpEeXU-qPI/AAAAAAAAABY/_TlZkEpR2Xk/S748/%25D0%259A%25D0%25BE%25D0%25BF%25D0%25B8%25D1%258F%2Bkriv_rog-3.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="6147" it="0" lt="3251" ct="2928" ts="1624176163890" s="true" lb="HTTPR_enter_random_link-12" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="19128" sby="820" ng="7" na="7">
+    <httpSample t="3251" it="0" lt="3251" ct="2928" ts="1624176163890" s="true" lb="HTTPR_enter_random_link-0" rc="301" rm="Moved Permanently" tn="" dt="text" by="418" sby="410" ng="0" na="0">
+      <java.net.URL>http://www.dilovamova.com/images/wpi.cache/informer/informer_200_02.png</java.net.URL>
+    </httpSample>
+    <httpSample t="2895" it="0" lt="2887" ct="1272" ts="1624176167142" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="18710" sby="410" ng="0" na="0">
+      <java.net.URL>https://www.dilovamova.com/images/wpi.cache/informer/informer_200_02.png</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://www.dilovamova.com/images/wpi.cache/informer/informer_200_02.png</java.net.URL>
+  </httpSample>
+  <httpSample t="4232" it="0" lt="2974" ct="2161" ts="1624176170039" s="true" lb="HTTPR_enter_random_link-13" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="34243" sby="386" ng="7" na="7">
+    <java.net.URL>https://i.ytimg.com/vi/OBZ-zFQrYIc/hqdefault.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="3446" it="0" lt="3446" ct="1397" ts="1624176174271" s="true" lb="HTTPR_enter_random_link-14" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="10197" sby="565" ng="7" na="7">
+    <java.net.URL>http://3.bp.blogspot.com/-DvhxiTtLnYE/UWbNXRZtvLI/AAAAAAAAESI/JIrLMZbrI-o/s210/%25D0%259F%25D0%2595%25D0%25A2%25D0%25A0%25D0%2595%25D0%259D%25D0%259A%25D0%259E%2B%25D0%2592%25D0%2598%25D0%259A%25D0%25A2%25D0%259E%25D0%25A0.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="2042" it="0" lt="2042" ct="1431" ts="1624176177719" s="true" lb="HTTPR_enter_random_link-15" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="4352" sby="616" ng="7" na="7">
+    <java.net.URL>http://1.bp.blogspot.com/-C70ff-OlYnE/TgTVIicRd_I/AAAAAAAAAo4/EgvwktVLvhw/w72-h72-p-k-no-nu/%25D0%259C%25D0%25B5%25D0%25B4%25D0%25B8%25D1%2586%25D0%25B8%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9+%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25BB%25D0%25B5%25D0%25B4%25D0%25B6.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="2137" it="0" lt="2137" ct="1867" ts="1624176179762" s="false" lb="HTTPR_enter_random_link-16" rc="404" rm="Not Found" tn="UTG_Тестирование 1-8" dt="bin" by="1337" sby="487" ng="7" na="7">
+    <java.net.URL>https://lh4.googleusercontent.com/proxy/paYnwezw3tRb3bgIZQPIDinFUR1Zbws0ezTdMDkXxhe6kJIdVFdzk2sLMNPXmcFVXgUHOmrDER5ZZG51XkCI6-1MzW8=w72-h72-n-k-no-nu</java.net.URL>
+  </httpSample>
+  <httpSample t="2209" it="0" lt="2209" ct="1668" ts="1624176181900" s="false" lb="HTTPR_enter_random_link-17" rc="404" rm="Not Found" tn="UTG_Тестирование 1-8" dt="bin" by="1337" sby="487" ng="7" na="7">
+    <java.net.URL>https://lh3.googleusercontent.com/proxy/Cem5NkI4Hmx6r6iKUjXFjMNRz4NrK4Le1EJ6nS4-S7T-vrv3aTWQ6Vz1hq5YonHyQAnvQqTp7BaSFtkfRahrTRIRnfE=w72-h72-n-k-no-nu</java.net.URL>
+  </httpSample>
+  <httpSample t="601" it="0" lt="601" ct="0" ts="1624176184109" s="true" lb="HTTPR_enter_random_link-18" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="3693" sby="506" ng="7" na="7">
+    <java.net.URL>http://3.bp.blogspot.com/-SkNhWYCdgWU/Tr1zHdyr04I/AAAAAAAABYI/f-ka98UEsc0/w72-h72-p-k-no-nu/%25D0%259A%25D0%25B0%25D0%25BD%25D0%25B0%25D0%25B4%25D0%25B0+09.+09.+09.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="863" it="0" lt="860" ct="0" ts="1624176184710" s="true" lb="HTTPR_enter_random_link-19" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="4287" sby="487" ng="7" na="7">
+    <java.net.URL>https://lh4.googleusercontent.com/proxy/HNl19DBQubAPJAYnHcXnaAJOoVrBLcCLB9yYdsoBRIqRcvnFZP7i0ktUxoSRGPbRlmcx8tjLjBJgEj__MjqPScow0FQ=w72-h72-n-k-no-nu</java.net.URL>
+  </httpSample>
+  <httpSample t="4100" it="0" lt="2022" ct="1349" ts="1624176185574" s="true" lb="HTTPR_enter_random_link-20" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="4375" sby="852" ng="7" na="7">
+    <httpSample t="2022" it="0" lt="2022" ct="1349" ts="1624176185574" s="true" lb="HTTPR_enter_random_link-0" rc="301" rm="Moved Permanently" tn="" dt="text" by="418" sby="426" ng="0" na="0">
+      <java.net.URL>http://informers.ukr.net/horo/emotion/js.php?Type=minimal&amp;Size=240x350&amp;div=horo_emotion</java.net.URL>
+    </httpSample>
+    <httpSample t="2077" it="0" lt="2077" ct="1742" ts="1624176187597" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="3957" sby="426" ng="0" na="0">
+      <java.net.URL>https://informers.ukr.net/horo/emotion/js.php?Type=minimal&amp;Size=240x350&amp;div=horo_emotion</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://informers.ukr.net/horo/emotion/js.php?Type=minimal&amp;Size=240x350&amp;div=horo_emotion</java.net.URL>
+  </httpSample>
+  <httpSample t="1481" it="0" lt="1481" ct="688" ts="1624176189675" s="true" lb="HTTPR_enter_random_link-21" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="bin" by="3912" sby="412" ng="7" na="7">
+    <java.net.URL>http://feeds.feedburner.com/~fc/blogspot/hYfmw?bg=99FFFF&amp;fg=444444&amp;anim=1</java.net.URL>
+  </httpSample>
+  <httpSample t="1769" it="0" lt="217" ct="0" ts="1624176191157" s="true" lb="HTTPR_enter_random_link-22" rc="200" rm="OK" tn="UTG_Тестирование 1-8" dt="text" by="55062" sby="401" ng="7" na="7">
+    <java.net.URL>https://www.blogger.com/static/v1/widgets/1289263365-widgets.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://krivoyrog-history.blogspot.com/2014/10/Anekdot-YA-kival.html</java.net.URL>
+</httpSample>
+<httpSample t="69199" it="0" lt="24129" ct="4159" ts="1624176858235" s="false" lb="HTTPR_enter_random_link" rc="200" rm="Embedded resource download error:https://telemetr.me/photos/b79b90e19183683aae3927e72e5a3ffa.jpg code:404 message:Not Found, https://img.telemetr.me/photos/b79b90e19183683aae3927e72e5a3ffa.jpg code:404 message:Not Found, " tn="UTG_Тестирование 1-2" dt="text" by="346984" sby="9863" ng="13" na="13">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="24139" it="0" lt="24129" ct="4159" ts="1624176858235" s="true" lb="HTTPR_enter_random_link-0" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="14540" sby="378" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/content/realstory611</java.net.URL>
+  </httpSample>
+  <httpSample t="338" it="0" lt="338" ct="0" ts="1624176882378" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="1333" sby="415" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl/assets/ico/favicon-32x32.png</java.net.URL>
+  </httpSample>
+  <httpSample t="167" it="0" lt="167" ct="0" ts="1624176882717" s="true" lb="HTTPR_enter_random_link-2" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="1251" sby="415" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl/assets/ico/favicon-16x16.png</java.net.URL>
+  </httpSample>
+  <httpSample t="159" it="0" lt="159" ct="0" ts="1624176882884" s="true" lb="HTTPR_enter_random_link-3" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="2273" sby="409" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl/assets/ico/favicon.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="2451" it="0" lt="1489" ct="999" ts="1624176883044" s="true" lb="HTTPR_enter_random_link-4" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="50183" sby="400" ng="13" na="13">
+    <java.net.URL>https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js</java.net.URL>
+  </httpSample>
+  <httpSample t="1117" it="0" lt="370" ct="0" ts="1624176885494" s="true" lb="HTTPR_enter_random_link-5" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="37059" sby="425" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/app/lib/jquery/js/jquery-3.5.1.min.js</java.net.URL>
+  </httpSample>
+  <httpSample t="1391" it="0" lt="764" ct="0" ts="1624176886611" s="true" lb="HTTPR_enter_random_link-6" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="16742" sby="421" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/app/lib/bootstrap/js/bootstrap.js</java.net.URL>
+  </httpSample>
+  <httpSample t="1763" it="0" lt="1762" ct="0" ts="1624176888002" s="true" lb="HTTPR_enter_random_link-7" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="7873" sby="431" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/app/lib/font-awesome/css/font-awesome.css?3</java.net.URL>
+  </httpSample>
+  <httpSample t="642" it="0" lt="617" ct="0" ts="1624176889784" s="true" lb="HTTPR_enter_random_link-8" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="9089" sby="421" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/app/lib/Ionicons/css/ionicons.css</java.net.URL>
+  </httpSample>
+  <httpSample t="7963" it="0" lt="538" ct="0" ts="1624176890466" s="true" lb="HTTPR_enter_random_link-9" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="147785" sby="2013" ng="13" na="13">
+    <httpSample t="2265" it="0" lt="538" ct="0" ts="1624176890466" s="true" lb="HTTPR_enter_random_link-0" rc="200" rm="OK" tn="" dt="text" by="143508" sby="408" ng="0" na="0">
+      <java.net.URL>https://telemetr.me/tpl2/app/css/slim.min.css</java.net.URL>
+    </httpSample>
+    <httpSample t="3184" it="0" lt="3184" ct="2302" ts="1624176893377" s="true" lb="HTTPR_enter_random_link-1" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1056" sby="400" ng="0" na="0">
+      <java.net.URL>https://fonts.googleapis.com/css?family=Roboto:300,400,500,700</java.net.URL>
+    </httpSample>
+    <httpSample t="590" it="0" lt="589" ct="0" ts="1624176896563" s="true" lb="HTTPR_enter_random_link-2" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="996" sby="403" ng="0" na="0">
+      <java.net.URL>https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700</java.net.URL>
+    </httpSample>
+    <httpSample t="706" it="0" lt="706" ct="0" ts="1624176897154" s="true" lb="HTTPR_enter_random_link-3" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1057" sby="408" ng="0" na="0">
+      <java.net.URL>https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700</java.net.URL>
+    </httpSample>
+    <httpSample t="566" it="0" lt="566" ct="0" ts="1624176897863" s="true" lb="HTTPR_enter_random_link-4" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1168" sby="394" ng="0" na="0">
+      <java.net.URL>https://fonts.googleapis.com/css?family=Lato:300,400,700</java.net.URL>
+    </httpSample>
+    <java.net.URL>https://telemetr.me/tpl2/app/css/slim.min.css</java.net.URL>
+  </httpSample>
+  <httpSample t="450" it="0" lt="450" ct="0" ts="1624176898431" s="true" lb="HTTPR_enter_random_link-10" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1824" sby="396" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/my.css?3</java.net.URL>
+  </httpSample>
+  <httpSample t="502" it="0" lt="502" ct="0" ts="1624176898886" s="true" lb="HTTPR_enter_random_link-11" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1570" sby="400" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/mobile.css?4</java.net.URL>
+  </httpSample>
+  <httpSample t="2417" it="0" lt="2417" ct="2062" ts="1624176899390" s="true" lb="HTTPR_enter_random_link-12" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1316" sby="425" ng="13" na="13">
+    <java.net.URL>https://www.google.com/recaptcha/api.js?render=6LcFONIUAAAAABDGDaVifvlM9VXemvt5uyF1iMyg</java.net.URL>
+  </httpSample>
+  <httpSample t="531" it="0" lt="530" ct="0" ts="1624176901808" s="true" lb="HTTPR_enter_random_link-13" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="2406" sby="408" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/logo-purple-full.png</java.net.URL>
+  </httpSample>
+  <httpSample t="1035" it="0" lt="1035" ct="0" ts="1624176902339" s="true" lb="HTTPR_enter_random_link-14" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="1544" sby="409" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/tpl2/logo-purple-short.png</java.net.URL>
+  </httpSample>
+  <httpSample t="2120" it="0" lt="2120" ct="0" ts="1624176903375" s="false" lb="HTTPR_enter_random_link-15" rc="404" rm="Not Found" tn="UTG_Тестирование 1-2" dt="bin" by="5785" sby="426" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/photos/b79b90e19183683aae3927e72e5a3ffa.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="10979" it="0" lt="10552" ct="9691" ts="1624176905496" s="true" lb="HTTPR_enter_random_link-16" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="bin" by="31436" sby="407" ng="13" na="13">
+    <java.net.URL>https://sun9-55.userapi.com/c855536/v855536018/133dc4/DspFjz82CoM.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="3336" it="0" lt="3335" ct="2517" ts="1624176916475" s="false" lb="HTTPR_enter_random_link-17" rc="404" rm="Not Found" tn="UTG_Тестирование 1-2" dt="bin" by="5783" sby="430" ng="13" na="13">
+    <java.net.URL>https://img.telemetr.me/photos/b79b90e19183683aae3927e72e5a3ffa.jpg</java.net.URL>
+  </httpSample>
+  <httpSample t="4174" it="0" lt="4174" ct="3792" ts="1624176919811" s="true" lb="HTTPR_enter_random_link-18" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="1569" sby="445" ng="13" na="13">
+    <java.net.URL>https://telemetr.me/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js</java.net.URL>
+  </httpSample>
+  <httpSample t="3447" it="0" lt="3367" ct="2927" ts="1624176923986" s="true" lb="HTTPR_enter_random_link-19" rc="200" rm="OK" tn="UTG_Тестирование 1-2" dt="text" by="5623" sby="389" ng="13" na="13">
+    <java.net.URL>https://static.cloudflareinsights.com/beacon.min.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://telemetr.me/content/realstory611</java.net.URL>
+</httpSample>
+<httpSample t="151213" it="0" lt="3090" ct="2156" ts="1624176899088" s="false" lb="HTTPR_UC01_enter_search_engine" rc="200" rm="Embedded resource download error:https://news.store.rambler.ru/img/2ae5563f4ded35355d39d4711c912afb?img-format=auto&amp;img-1-resize=width:220,height:165,fit:cover&amp;img-2-filter=sharpen code:Non HTTP response code: org.apache.http.NoHttpResponseException message:Non HTTP response message: news.store.rambler.ru:443 failed to respond, " tn="UTG_Тестирование 1-14" dt="text" by="984980" sby="15539" ng="6" na="6">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="21085" it="0" lt="3090" ct="2156" ts="1624176899088" s="true" lb="HTTPR_UC01_enter_search_engine-0" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="236084" sby="361" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/</java.net.URL>
+  </httpSample>
+  <httpSample t="1110" it="0" lt="1110" ct="0" ts="1624176920177" s="true" lb="HTTPR_UC01_enter_search_engine-1" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="673" sby="437" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/favicon/favicon-16x16.png</java.net.URL>
+  </httpSample>
+  <httpSample t="558" it="0" lt="558" ct="0" ts="1624176921288" s="true" lb="HTTPR_UC01_enter_search_engine-2" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="836" sby="437" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/favicon/favicon-32x32.png</java.net.URL>
+  </httpSample>
+  <httpSample t="963" it="0" lt="963" ct="0" ts="1624176921846" s="true" lb="HTTPR_UC01_enter_search_engine-3" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="2364" sby="437" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/favicon/favicon-96x96.png</java.net.URL>
+  </httpSample>
+  <httpSample t="988" it="0" lt="988" ct="0" ts="1624176922809" s="true" lb="HTTPR_UC01_enter_search_engine-4" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="1854" sby="439" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/favicon/favicon-128x128.png</java.net.URL>
+  </httpSample>
+  <httpSample t="2622" it="0" lt="1521" ct="0" ts="1624176923797" s="true" lb="HTTPR_UC01_enter_search_engine-5" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="23389" sby="439" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/favicon/favicon-196x196.png</java.net.URL>
+  </httpSample>
+  <httpSample t="2030" it="0" lt="2029" ct="1667" ts="1624176926419" s="true" lb="HTTPR_UC01_enter_search_engine-6" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="11876" sby="443" ng="6" na="6">
+    <java.net.URL>https://id.rambler.ru/rambler-id-helper/auth_events.js</java.net.URL>
+  </httpSample>
+  <httpSample t="4524" it="0" lt="3977" ct="2869" ts="1624176928449" s="true" lb="HTTPR_UC01_enter_search_engine-7" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="41244" sby="424" ng="6" na="6">
+    <java.net.URL>https://vp.rambler.ru/player/sdk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="7238" it="0" lt="6110" ct="3510" ts="1624176932973" s="true" lb="HTTPR_UC01_enter_search_engine-8" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="40860" sby="382" ng="6" na="6">
+    <java.net.URL>https://loyalty.rambler-co.ru/profile/sdk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="6039" it="0" lt="6039" ct="0" ts="1624176940211" s="true" lb="HTTPR_UC01_enter_search_engine-9" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="5877" sby="460" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktopVendorMediaComponents.8776d8af.css</java.net.URL>
+  </httpSample>
+  <httpSample t="887" it="0" lt="887" ct="0" ts="1624176946251" s="true" lb="HTTPR_UC01_enter_search_engine-10" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="2587" sby="489" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-desk_default-desk_new_dd2-desk_new_g1-desk_splitz.e0edb599.css</java.net.URL>
+  </httpSample>
+  <httpSample t="967" it="0" lt="967" ct="0" ts="1624176947139" s="true" lb="HTTPR_UC01_enter_search_engine-11" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="591" sby="469" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_default-desk_new_dd2-desk_new_g1.8b90577d.css</java.net.URL>
+  </httpSample>
+  <httpSample t="1541" it="0" lt="1541" ct="0" ts="1624176948107" s="true" lb="HTTPR_UC01_enter_search_engine-12" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="5729" sby="464" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-desk_new_dd2-desk_new_g1.68896f2c.css</java.net.URL>
+  </httpSample>
+  <httpSample t="1856" it="0" lt="1856" ct="0" ts="1624176949648" s="true" lb="HTTPR_UC01_enter_search_engine-13" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="6779" sby="444" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_new_dd2.866220c3.css</java.net.URL>
+  </httpSample>
+  <httpSample t="31783" it="0" lt="9270" ct="7460" ts="1624176951505" s="true" lb="HTTPR_UC01_enter_search_engine-14" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="192672" sby="427" ng="6" na="6">
+    <java.net.URL>https://ssp.rambler.ru/capirs_async.js</java.net.URL>
+  </httpSample>
+  <httpSample t="3939" it="0" lt="3939" ct="3153" ts="1624176983288" s="true" lb="HTTPR_UC01_enter_search_engine-15" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="1561" sby="444" ng="6" na="6">
+    <java.net.URL>https://static.rambler.ru/icons/header/v2/logo/head.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="14343" it="0" lt="9048" ct="2565" ts="1624176987228" s="true" lb="HTTPR_UC01_enter_search_engine-16" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="43690" sby="536" ng="6" na="6">
+    <java.net.URL>https://news.store.rambler.ru/img/032dc220245f20ac55614051fceca824?img-format=auto&amp;img-1-resize=width:630,height:355,fit:cover&amp;img-2-filter=sharpen</java.net.URL>
+  </httpSample>
+  <httpSample t="1" it="0" lt="0" ct="0" ts="1624177001572" s="false" lb="HTTPR_UC01_enter_search_engine-17" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: news.store.rambler.ru:443 failed to respond" tn="UTG_Тестирование 1-14" dt="text" by="2593" sby="0" ng="6" na="6">
+    <java.net.URL>https://news.store.rambler.ru/img/2ae5563f4ded35355d39d4711c912afb?img-format=auto&amp;img-1-resize=width:220,height:165,fit:cover&amp;img-2-filter=sharpen</java.net.URL>
+  </httpSample>
+  <httpSample t="3390" it="0" lt="3390" ct="1608" ts="1624177001573" s="true" lb="HTTPR_UC01_enter_search_engine-18" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="6905" sby="536" ng="6" na="6">
+    <java.net.URL>https://news.store.rambler.ru/img/401e6966398b4d12c7a00906d1b106a7?img-format=auto&amp;img-1-resize=width:220,height:165,fit:cover&amp;img-2-filter=sharpen</java.net.URL>
+  </httpSample>
+  <httpSample t="12334" it="0" lt="8160" ct="3980" ts="1624177004963" s="true" lb="HTTPR_UC01_enter_search_engine-19" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="bin" by="14992" sby="452" ng="6" na="6">
+    <java.net.URL>https://store.rambler.ru/rhead/5b3e934cf536608e14fdffd304aa5582</java.net.URL>
+  </httpSample>
+  <httpSample t="4746" it="0" lt="4746" ct="3931" ts="1624177017297" s="true" lb="HTTPR_UC01_enter_search_engine-20" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="1219" sby="452" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktopWebpackRuntime.93a3251f.js</java.net.URL>
+  </httpSample>
+  <httpSample t="4248" it="0" lt="2815" ct="0" ts="1624177022043" s="true" lb="HTTPR_UC01_enter_search_engine-21" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="42362" sby="455" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktopVendorReact.dadc88a3.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="586" it="0" lt="585" ct="0" ts="1624177026293" s="true" lb="HTTPR_UC01_enter_search_engine-22" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="8323" sby="465" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktopVendorMediaComponents.cfacff56.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="15360" it="0" lt="349" ct="0" ts="1624177026879" s="true" lb="HTTPR_UC01_enter_search_engine-23" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="211960" sby="450" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktopVendor.8a4dd8bb.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="909" it="0" lt="909" ct="0" ts="1624177042239" s="true" lb="HTTPR_UC01_enter_search_engine-24" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="1401" sby="444" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desktop.3755d14b.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="511" it="0" lt="511" ct="0" ts="1624177043149" s="true" lb="HTTPR_UC01_enter_search_engine-25" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="904" sby="494" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_default-desk_new_dd2-desk_new_g1-desk_splitz-desktop.9555a250.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="616" it="0" lt="615" ct="0" ts="1624177043660" s="true" lb="HTTPR_UC01_enter_search_engine-26" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="7159" sby="486" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_default-desk_new_dd2-desk_new_g1-desk_splitz.688dacbd.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="768" it="0" lt="767" ct="0" ts="1624177044276" s="true" lb="HTTPR_UC01_enter_search_engine-27" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="3095" sby="491" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-debugger-desk_default-desk_new_dd2-desk_new_g1.a128bba3.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="899" it="0" lt="899" ct="0" ts="1624177045044" s="true" lb="HTTPR_UC01_enter_search_engine-28" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="8464" sby="494" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-desk_default-desk_new_dd2-desk_new_g1-desk_splitz.560864f9.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="215" it="0" lt="215" ct="0" ts="1624177045944" s="true" lb="HTTPR_UC01_enter_search_engine-29" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="3099" sby="474" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_default-desk_new_dd2-desk_new_g1.a7dac520.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="554" it="0" lt="553" ct="0" ts="1624177046160" s="true" lb="HTTPR_UC01_enter_search_engine-30" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="14784" sby="478" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-debugger-desk_new_dd2-desk_new_g1.3c6b23e1.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="366" it="0" lt="366" ct="0" ts="1624177046714" s="true" lb="HTTPR_UC01_enter_search_engine-31" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="1163" sby="461" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_new_dd2-desk_new_g1.b2d4e63a.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="620" it="0" lt="619" ct="0" ts="1624177047080" s="true" lb="HTTPR_UC01_enter_search_engine-32" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="12827" sby="469" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/vendors-desk_new_dd2-desk_new_g1.da361eac.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="2276" it="0" lt="1551" ct="0" ts="1624177047700" s="true" lb="HTTPR_UC01_enter_search_engine-33" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="23122" sby="449" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_new_dd2.cb4bd184.chunk.js</java.net.URL>
+  </httpSample>
+  <httpSample t="324" it="0" lt="324" ct="0" ts="1624177049978" s="true" lb="HTTPR_UC01_enter_search_engine-34" rc="200" rm="OK" tn="UTG_Тестирование 1-14" dt="text" by="1942" sby="457" ng="6" na="6">
+    <java.net.URL>https://www.rambler.ru/assets/desk_new_dd2WebpackRuntime.c05af08d.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://www.rambler.ru/</java.net.URL>
+</httpSample>
+
+</testResults>
