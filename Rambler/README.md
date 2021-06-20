@@ -33,9 +33,12 @@ So i can make such resolutions by the results:
 [Test report. All errors](Test_Results/rambler_errors.xml)
 
 ![Aggregate Report](Test_Results/1.aggregate_report.png?raw=true "Title")
+
 Here we can see how many transactions per second are done in lapse of time
 ![Transactions per second](Test_Results/2.transactions_per_second.png?raw=true "Title")
+
 Here we can see responses in lapse of time
 ![Response times over time](Test_Results/3.response_times_over_time.png?raw=true "Title")
+
 Here we can see active users in lapse of time
 ![Active threads over time](Test_Results/4.active_threads_over_time.png?raw=true "Title")
