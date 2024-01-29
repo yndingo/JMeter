@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Load test for local KAFKA on windows</b>
+  <b>Simple load test for simple local KAFKA on windows</b>
 </p>
 
 <b>Actions</b>
