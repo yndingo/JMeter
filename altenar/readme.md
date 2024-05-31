@@ -9,7 +9,7 @@
 4. load ramps 1 => +2 => +5 => +10, each ramp works per 20 sec
 
 description REST API service SB2 by Swagger specification 
-[feApiSwaggerSpec.json](Test_Plan/rambler_report.csv)
+[feApiSwaggerSpec.json](Test_Data/feApiSwaggerSpec.json)
 
 <b>Load test</b>
 
