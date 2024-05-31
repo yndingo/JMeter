@@ -17,7 +17,7 @@ I have calculated such results:
 1. pacing 0 sec
 2. load ramps 1 => +2 => +5 => +10, each ramp works per 20 sec
 
-![Test plan](Test_Results/1.test_plan.png?raw=true "Title")
+![Test plan](Test_Results/1.test_plan.png?raw=true "Test plan")
 
 <b>Results</b>
 
@@ -32,11 +32,11 @@ So i can make such resolutions by the results:
 
 
 Here we can see how many transactions per second are done in lapse of time
-![Transactions per second](Test_Results/4.results_Transactions_per_Second.png?raw=true "Title")
+![Transactions per second](Test_Results/4.results_Transactions_per_Second.png?raw=true "Transactions per second")
 
 Here we can see responses in lapse of time
-![Response times over time](Test_Results/3.results_Response_Times_Over_Time.png?raw=true "Title")
+![Response times over time](Test_Results/3.results_Response_Times_Over_Time.png?raw=true "Response times over time")
 
 Here we can see active users in lapse of time
-![Active threads over time](Test_Results/2.results_Active_Threads_Over_Time.png?raw=true "Title")
+![Active threads over time](Test_Results/2.results_Active_Threads_Over_Time.png?raw=true "Active threads over time")
 
