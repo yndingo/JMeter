@@ -1,13 +1,15 @@
 <p align="center">
-  <b>Load test for search engine Rambler</b>
+  <b>Load test for altenar service</b>
 </p>
 
 <b>Actions</b>
-1. open main page with getting all context
-2. search by random phrase from Maknamara_Ye._Malenkiyi_Cvetochnyiyi_Ma.csv
-3. select random link and follow by it
-4. print to log title of the opened page and all absolute hyperlinks available on the page
-5. after each action must be random delay (1-5sec)
+1. open API GetUpcoming
+2. select 5 events where SelectionsCount > 10
+3. open API GetEventDetails with EventId = random event from step #2
+4. load ramps 1 => +2 => +5 => +10, each ramp works per 20 sec
+
+description REST API service SB2 by Swagger specification 
+[feApiSwaggerSpec.json](Test_Plan/rambler_report.csv)
 
 <b>Load test</b>
 
