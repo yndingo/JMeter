@@ -25,6 +25,8 @@ So i can make such resolutions by the results:
 1. no errors
 2. GetUpcoming 90%% 299ms
 3. GetEventDetails 90%% 288ms
+4. no max perfomance found
+5. tested api works stable on this ramps
 
 
 
