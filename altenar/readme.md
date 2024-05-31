@@ -23,10 +23,8 @@ I have calculated such results:
 
 So i can make such resolutions by the results:
 1. no errors
-2. 145 samples are done in the test
-3. average time of sample is 53 seconds
-4. about 2% errors were detected (NoHTTPResponse,ResourseNotFound)
-5. During test we can see that responses are growing the main reason is that my internet channel width is prerry low at that moment 
+2. GetUpcoming 90%% 299ms
+3. GetEventDetails 90%% 288ms
 
 
 
